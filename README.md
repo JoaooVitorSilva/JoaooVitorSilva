@@ -4,7 +4,6 @@
 - 🌱 Estudando Java e JavaScript | Studying Java and JavaScript
 - ✉ E-mail Pessoal: wjoaosilvaw@gmail.com
 
-
 ---
 
 <div align="center">
@@ -27,7 +26,6 @@
   <img align="center" alt="João-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
   
-
 ##
 
 <div> 
@@ -42,7 +40,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaooVitorSilva/JoaooVitorSilva/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaooVitorSilva/JoaooVitorSilva/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 <!--
 **JoaooVitorSilva/JoaooVitorSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
