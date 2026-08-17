@@ -1,7 +1,7 @@
 ## Olá, Eu sou João Vitor da Silva! | Hi there, I'm João Vitor da Silva! 👋
 
 - 💻 Atualmente trabalho com BI utilizando a ferramenta Qlik | I currently work with BI using the Qlik tool
-- 🌱 Estudando Java e JavaScript | Studying Java and JavaScript
+- 🌱 Estudando Flutter | Studying Flutter
 - ✉ E-mail Pessoal: wjoaosilvaw@gmail.com
 
 ---
